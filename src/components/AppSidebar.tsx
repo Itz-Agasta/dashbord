@@ -85,6 +85,7 @@ const AppSidebar = () => {
 				</SidebarMenu>
 			</SidebarHeader>
 			<SidebarSeparator />
+			{/* CONTENT */}
 			<SidebarContent>
 				<SidebarGroup>
 					<SidebarGroupLabel>Application</SidebarGroupLabel>
